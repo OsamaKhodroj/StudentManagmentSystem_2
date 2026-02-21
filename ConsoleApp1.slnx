@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="Domains/Domains.csproj" Id="0c23ad54-13dd-4194-969d-eab8290e23cc" />
+  <Project Path="Infrastrctures/Infrastrctures.csproj" Id="e62dc8d5-563c-4645-8819-b48a5f51fb04" />
+  <Project Path="Services/Services.csproj" Id="26ebe01b-94f6-4a10-82e4-dbb8d62ba3c1" />
+</Solution>
